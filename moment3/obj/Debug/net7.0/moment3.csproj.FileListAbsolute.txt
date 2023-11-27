@@ -1,0 +1,14 @@
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/bin/Debug/net7.0/moment3
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/bin/Debug/net7.0/moment3.deps.json
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/bin/Debug/net7.0/moment3.runtimeconfig.json
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/bin/Debug/net7.0/moment3.dll
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/bin/Debug/net7.0/moment3.pdb
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.AssemblyInfoInputs.cache
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.AssemblyInfo.cs
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.csproj.CoreCompileInputs.cache
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.dll
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/refint/moment3.dll
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.pdb
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/moment3.genruntimeconfig.cache
+/Users/violafalk/Documents/Webbutveckling/C#/moment3c#/moment3/obj/Debug/net7.0/ref/moment3.dll
